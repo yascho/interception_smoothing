@@ -1,6 +1,6 @@
 # Randomized Message-Interception Smoothing
 
-<img src="./interception-smoothing-logo.svg">
+<img src="./logo.svg">
 
 Reference implementation of the gray-box certificate proposed in the paper:
 
