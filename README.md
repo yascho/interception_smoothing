@@ -11,7 +11,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2022<br>
 
 ## Example 
 
-We provide a demo notebook (demo.ipynb) with an example of how to compute certificates for a pretrained GAT model.
+We provide a demo notebook (<a href="./demo.ipynb">demo.ipynb</a>) with an example of how to compute certificates for a pretrained GAT model.
 
 ## Install
 
