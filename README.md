@@ -1,5 +1,7 @@
 # Randomized Message-Interception Smoothing
 
+<img src="./interception-smoothing-logo.svg">
+
 Reference implementation of the gray-box certificate proposed in the paper:
 
 **<a href=''>Randomized Message-Interception Smoothing: Gray-box Certificates for Graph Neural Networks</a>**<br>
