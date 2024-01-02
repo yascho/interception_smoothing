@@ -34,8 +34,8 @@ Please cite our paper if you use this code in your own work:
 @inproceedings{scholten2022interception_smoothing,
 title = {Randomized Message-Interception Smoothing: Gray-box Certificates for Graph Neural Networks},
 author = {Scholten, Yan and Schuchardt, Jan and Geisler, Simon and Bojchevski, Aleksandar and G{\"u}nnemann, Stephan},
-booktitle={Neural Information Processing Systems, {NeurIPS}},
-year = {2022}
+booktitle={Advances in Neural Information Processing Systems, {NeurIPS}},
+year={2023}
 }
 ```
 
