@@ -7,7 +7,7 @@ Reference implementation of the gray-box certificate proposed in the paper:
 **<a href='https://openreview.net/pdf?id=t0VbBTw-o8'>Randomized Message-Interception Smoothing: Gray-box Certificates for Graph Neural Networks</a>**<br>
 *Yan Scholten, Jan Schuchardt, Simon Geisler, Aleksandar Bojchevski, Stephan Günnemann*<br>
 Conference on Neural Information Processing Systems (NeurIPS), 2022<br>
-[ <a href='https://www.cs.cit.tum.de/daml/interception-smoothing/'>Project page</a> | <a href='https://openreview.net/pdf?id=t0VbBTw-o8'>PDF</a> | <a href='https://www.youtube.com/watch?v=rbFiXrh9Snk'>Talk</a> | <a href='https://yascho.github.io/assets/pdf/scholten2022randomized-slides.pdf'>Slides</a> ]
+[ <a href='https://www.cs.cit.tum.de/daml/interception-smoothing/'>Project page</a> | <a href='https://openreview.net/pdf?id=t0VbBTw-o8'>PDF</a> | <a href='https://www.youtube.com/watch?v=rbFiXrh9Snk'>Talk</a> | <a href='https://yascho.github.io/assets/pdf/scholten2022randomized-slides.pdf'>Slides</a> | <a href='https://yascho.github.io/assets/pdf/scholten2022randomized-poster.pdf'>Poster</a> ]
 
 ## Example 
 
